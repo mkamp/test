@@ -4,9 +4,9 @@
 
 ### Auftraggeber
 
-Max Mustermann
-Mustergasse 13
-12345 Musterstadt
+Max Mustermann  
+Mustergasse 13  
+12345 Musterstadt  
 
 Tel.: 0123-456789
 
